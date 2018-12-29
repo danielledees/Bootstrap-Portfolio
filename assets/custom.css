@@ -4,6 +4,8 @@ body {
     line-height: 34px;
     color: #777777;
     background: url("/images/old_moon.png");
+    /*background-image: linear-gradient(to right, #434343 0%, black 100%);*/
+  
 }
 
 #logo {
